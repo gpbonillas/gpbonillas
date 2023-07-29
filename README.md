@@ -35,10 +35,10 @@
   <a href="https://www.linkedin.com/in/gpbonillas/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/tuxpato/" target="_blank">
+  <a href="https://www.instagram.com/patobonilla7/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://twitter.com/tuxpato" target="blank">
+  <a href="https://twitter.com/devpato7" target="blank">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="jchn146#0587">
   </a>
   <a href="mailto:gpbonillas@gmail.com">
