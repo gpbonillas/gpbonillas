@@ -1,6 +1,7 @@
 <h2>About me</h2>
 
 <ul>
+  <li>🧑🏻‍💻 <b>Java and SQL Developer</b>.</li>
   <li>🌱 I’m currently learning <b>Data Science, Flutter, React, Rust and Quarkus</b>.</li>
   <li>📫 How to reach me: <b><a href="mailto:gpbonillas@gmail.com">gpbonillas@gmail.com</a></b></li>
 </ul>
